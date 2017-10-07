@@ -1,0 +1,6 @@
+1. complete sort -------------------------
+2. complete per team sort --------------------
+3. cin>>string not working with spaces -------------
+4. deallocate dynamic memory ------------------
+5. test  function for all cases ------------------
+6. test all cases
